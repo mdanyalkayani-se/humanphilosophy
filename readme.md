@@ -1,7 +1,3 @@
-Here’s the **refactored README** for **Human Philosophy**, adapted to the job-seeking context and aligned with the personal tone — no references to “we,” “company,” or “founder.”
-
----
-
 ## 🌐 Human Philosophy — A Collective Space for Timeless Thought
 
 **Live Demo**: [humanphilosophy.org](https://humanphilosophy.org)
@@ -41,15 +37,6 @@ This platform supports long-form writing on topics like:
 
 ---
 
-## 🛠️ Tech Stack
-
-* **HTML**, **CSS**, **Vanilla JavaScript**
-* **Supabase** – Auth and Database
-* **REST APIs** – Data interaction
-* **Netlify** – Static hosting with custom domain
-
----
-
 ## 🚀 How to Set It Up
 
 > This project is not open-sourced, but here’s a general overview of the stack:
@@ -70,6 +57,20 @@ This platform supports long-form writing on topics like:
 
 ---
 
+## 📄 License & Usage
+
+This project is part of a **personal portfolio showcase**.
+It is **not open source**, and the **source code is private**.
+
+The project is available for **inspiration and demonstration purposes only**.
+Please do **not copy, reuse, or redistribute** any part of the implementation without permission.
+
+> All rights reserved unless explicitly granted.
+
+If you're interested in **collaborating or building something similar**, feel free to reach out.
+
+---
+
 ## 📬 Contact
 
 If you'd like to discuss or collaborate, feel free to reach out:
@@ -77,13 +78,6 @@ If you'd like to discuss or collaborate, feel free to reach out:
 * 📧 Email: [mdanyalkayani.se@gmail.com](mailto:mdanyalkayani.se@gmail.com)
 * 🐙 GitHub: [github.com/mdanyalkayani-se](https://github.com/mdanyalkayani-se)
 * 🌐 LinkedIn: [linkedin.com/in/mdanyalkayani-se](https://github.com/mdanyalkayani)
-
----
-
-## 🛡️ License
-
-Licensed under the [MIT License](https://opensource.org/licenses/MIT).
-The code is not open at this time, but ideas and conversations are always welcome.
 
 ---
 
